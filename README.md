@@ -24,6 +24,8 @@ We introduced four metrics: diversity, ubiquity, RCA and relatedness + two summa
 
 Notebooks and code are based on [py-ecomplexity](https://github.com/cid-harvard/py-ecomplexity)
 
+- [Ecomony complexity with trade data from Data Science MeetUp - Milan / October 2022](https://github.com/Lightcast-Global-Innovation/jobs-complexity/blob/main/ECI_with_trade_data.ipynb)
+
 # References:
 
 Hidalgo, César A. "Economic complexity theory and applications." Nature Reviews Physics 3.2 (2021): 92-113.
