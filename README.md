@@ -20,6 +20,10 @@ We introduced four metrics: diversity, ubiquity, RCA and relatedness + two summa
 - [Elena Magrini - Knowledge, skills, behaviours (Brighton, UK - October 2022)](https://github.com/Lightcast-Global-Innovation/jobs-complexity/blob/main/Lightcast%20presentation%20-%20Brighton%20workshop%20-%20Elena%20Magrini%20-%20October%202022.pdf)
 - [Mauro Pelucchi - Milan Data Science MeetUp (October 2022)](https://github.com/Lightcast-Global-Innovation/jobs-complexity/blob/main/ECI%20MauroPelucchi%20-%20Milan%20Data%20Science%20MeetUp%20-%20October%202022.pdf)
 
+# Notebooks and code:
+
+Notebooks and code are based on [py-ecomplexity](https://github.com/cid-harvard/py-ecomplexity)
+
 # References:
 
 Hidalgo, César A. "Economic complexity theory and applications." Nature Reviews Physics 3.2 (2021): 92-113.
