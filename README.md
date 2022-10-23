@@ -16,5 +16,5 @@ In this repository you will find some presentasions and notebook about the econo
 We introduced four metrics: diversity, ubiquity, RCA and relatedness + two summary metrics.
 
 Presentations & talks:
-- (Elena Magrini - Knowledge, skills, behaviours (Brighton, UK - October 2022))[https://github.com/Lightcast-Global-Innovation/jobs-complexity/blob/main/Lightcast%20presentation%20-%20Brighton%20workshop%20-%20Elena%20Magrini%20-%20October%202022.pdf]
-- Mauro Pelucchi - Milan Data Science MeetUp (October 2022)[https://github.com/Lightcast-Global-Innovation/jobs-complexity/blob/main/ECI%20MauroPelucchi%20-%20Milan%20Data%20Science%20MeetUp%20-%20October%202022.pdf]
+- [Elena Magrini - Knowledge, skills, behaviours (Brighton, UK - October 2022)](https://github.com/Lightcast-Global-Innovation/jobs-complexity/blob/main/Lightcast%20presentation%20-%20Brighton%20workshop%20-%20Elena%20Magrini%20-%20October%202022.pdf)
+- [Mauro Pelucchi - Milan Data Science MeetUp (October 2022)](https://github.com/Lightcast-Global-Innovation/jobs-complexity/blob/main/ECI%20MauroPelucchi%20-%20Milan%20Data%20Science%20MeetUp%20-%20October%202022.pdf)
